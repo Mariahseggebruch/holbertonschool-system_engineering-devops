@@ -1,2 +1,2 @@
 #!/bin/bash
-export=path=$path ~/.bashrc
+export path=$path ;/action
